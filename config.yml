@@ -1,0 +1,15 @@
+connections:
+        subscription_id: '' 
+        blobstorage:
+                accountname: ''
+                accountkey: ''
+                containername: ''
+        adf:          
+          rg_name: ''
+          df_name: ''
+          pipeline_name: ''
+        service_principal:
+                ad_clientid: ''
+                ad_client_secret: ''
+                ad_tenantid: ''
+
