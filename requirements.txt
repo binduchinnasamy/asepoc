@@ -16,7 +16,7 @@ azure-servicemanagement-legacy==0.20.1
 azure-storage-blob==2.1.0
 azure-storage-common==2.1.0
 binaryornot==0.4.4
-certifi==2019.9.11
+certifi==2022.12.7
 cffi==1.12.3
 chardet==3.0.4
 cookiecutter==1.6.0
